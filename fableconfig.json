@@ -1,0 +1,8 @@
+{
+    "outDir": "build",
+    "projFile": "src/game.fsx",
+    "sourceMaps": true,
+    "watch": true,
+    "verbose": true,
+    "rollup": "bundle.js"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "high-five-o",
+  "version": "1.0.0",
+  "description": "Browser game - Don't keep your friends hanging!",
+  "main": "index.js",
+  "scripts": {
+    "start": "fable",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteelFlow/high-five-o.git"
+  },
+  "author": "Ståle Strømme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteelFlow/high-five-o/issues"
+  },
+  "homepage": "https://github.com/SteelFlow/high-five-o#readme",
+  "dependencies": {
+    "fable-compiler": "^0.7.25",
+    "fable-core": "^0.7.18"
+  }
+}
